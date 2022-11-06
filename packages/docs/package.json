@@ -23,6 +23,7 @@
     "babel-loader": "^8.3.0"
   },
   "dependencies": {
+    "ignite-ui/ts-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
     "@ignite-ui/eslint-config": "*",
